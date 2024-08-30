@@ -1,4 +1,4 @@
-<h2 align="center">Welcome! I amm Igor Lomba; backend developer living in Portugal.</h2>
+<h2 align="center">Welcome! I am Igor Lomba; backend developer living in Portugal.</h2>
 
 ###
 
